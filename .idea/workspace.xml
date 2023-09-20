@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c1ca2b02-d4d7-4279-b61f-fa25d75825f0" name="Changes" comment="">
+
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Newleaf",
+
     "last_opened_file_path": "/Users/amareshgoshika/Desktop/Pallavi_github/Homepage2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -54,7 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695246504483</updated>
       <workItem from="1695246505698" duration="988000" />
-      <workItem from="1695248157547" duration="1801000" />
+
     </task>
     <servers />
   </component>
